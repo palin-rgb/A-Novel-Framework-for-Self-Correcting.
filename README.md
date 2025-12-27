@@ -18,3 +18,16 @@ crisis-learning-ai/
 ├── assets/                     # Screenshots, diagrams
 ├── requirements.txt
 └── README.md                   (This file)
+🔬 Research Context & Goals
+
+This project is a prototype for a new paradigm in autonomous learning. It is philosophically aligned with cutting-edge research on embodied AI, world models, and AI safety from labs like DeepMind, as it prioritizes:
+
+· Interpretability: Every piece of knowledge is an auditable rule.
+· Robustness: The model self-corrects, preventing cascading errors.
+· Generalization: Learning principles are divorced from specific tasks.
+
+The long-term goal is to develop a scalable foundation for AI that can learn and reason about the physical world with human-like curiosity and coherence.
+
+🤝 Contributing & Discussion
+
+This is a research prototype. Discussions, high-level ideas, and theoretical collaborations are welcome!
